@@ -5,6 +5,8 @@
 <h3 align="left">CV:</h3>
 <a href="https://drive.google.com/file/d/1nUgfqxm_e0I0pH5lLG_FKg4Bcr-siW9v/view?usp=sharing" target="blank">https://drive.google.com/file/d/1nUgfqxm_e0I0pH5lLG_FKg4Bcr-siW9v</a>
 
+<a href="https://career.habr.com/trnikita" target="blank">https://career.habr.com/trnikita</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:tr_nikita@mail.ru" target="blank"><img align="center" src="https://img.freepik.com/free-icon/envelope_318-408141.jpg?w=2000" alt="mail" height="45" width="45" /></a>  
