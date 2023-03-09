@@ -54,6 +54,9 @@
 <a href="https://jestjs.io" target="_blank"> 
  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
  </a> 
+ <a href="https://www.i18next.com/" target="_blank"> 
+ <img src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4" alt="i18next" width="40" height="40"/> 
+ </a> 
 </p>
 
 [![Top Langs](https://github-readme-stats-xi-flax-37.vercel.app/api/top-langs/?username=TrNikita&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
