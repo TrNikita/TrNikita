@@ -99,5 +99,3 @@
  <img src="https://virtuoso.dev/img/logo.svg" alt="virtuoso" width="60" height="60"/> 
  </a>
  </p>
-
- <hr>
