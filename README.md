@@ -47,10 +47,6 @@
  <img src="https://loki.js.org/img/favicon.svg" alt="loki" width="60" height="60"/> 
  </a>
 
-<a href="https://www.cypress.io/" target="_blank"> 
- <img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" alt="cypress" width="60" height="60"/> 
- </a>
-
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
 
@@ -66,6 +62,9 @@
 
 <a href="https://storybook.js.org/" target="_blank"> 
  <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" alt="storybook" width="60" height="60"/> 
+ </a>
+   <a href="https://virtuoso.dev/" target="_blank"> 
+ <img src="https://virtuoso.dev/img/logo.svg" alt="virtuoso" width="60" height="60"/> 
  </a>
 </p>
 
@@ -95,7 +94,4 @@
  <img src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4" alt="i18next" width="60" height="60"/> 
  </a>
 
-  <a href="https://virtuoso.dev/" target="_blank"> 
- <img src="https://virtuoso.dev/img/logo.svg" alt="virtuoso" width="60" height="60"/> 
- </a>
  </p>
